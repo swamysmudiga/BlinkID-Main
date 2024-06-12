@@ -7,3 +7,6 @@
 [submodule "blinkid-flask-api-main"]
 	path = blinkid-flask-api-main
 	url = https://github.com/swamysmudiga/blinkid-flask-api-main
+[submodule "BlindID-Android-App"]
+	path = BlindID-Android-App
+	url = https://github.com/swamysmudiga/BlindID-Android-App
