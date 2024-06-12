@@ -1,3 +1,6 @@
 [submodule "blinkid-spring-bootapp-main"]
 	path = blinkid-spring-bootapp-main
 	url = https://github.com/swamysmudiga/blinkid-spring-bootapp-main
+[submodule "blink-id-react-admin-master"]
+	path = blink-id-react-admin-master
+	url = https://github.com/swamysmudiga/blink-id-react-admin-master
