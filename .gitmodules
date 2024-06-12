@@ -4,3 +4,6 @@
 [submodule "blink-id-react-admin-master"]
 	path = blink-id-react-admin-master
 	url = https://github.com/swamysmudiga/blink-id-react-admin-master
+[submodule "blinkid-flask-api-main"]
+	path = blinkid-flask-api-main
+	url = https://github.com/swamysmudiga/blinkid-flask-api-main
