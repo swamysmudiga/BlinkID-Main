@@ -4,10 +4,10 @@ BlinkID is a user-friendly platform designed for campus access regulation, verif
 
 ## Repository Information
 
-- **Backend Code**: [blinkid-spring-bootapp-main](link-to-repo)
-- **Frontend Code**: [blink-id-react-admin-master](link-to-repo)
-- **Face Recognition Service (Python, Flask API) Code**: [blinkid-flask-api-main](link-to-repo)
-- **Mobile Application Code**: [BlinkID-Android-App](link-to-repo)
+- **Backend Code**: [blinkid-spring-bootapp-main](https://github.com/swamysmudiga/BlinkId-Spring-Bootapp)
+- **Frontend Code**: [blink-id-react-admin-master](https://github.com/swamysmudiga/BlinId-React-Admin)
+- **Face Recognition Service (Python, Flask API) Code**: [blinkid-flask-api-main](https://github.com/swamysmudiga/BlinkId-Flask-Api)
+- **Mobile Application Code**: [BlinkID-Android-App](https://github.com/swamysmudiga/BlinkId-Android-App)
 
 ## Technology Stack
 
